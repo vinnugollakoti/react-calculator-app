@@ -1,0 +1,17 @@
+body {
+    margin-top: 50px;
+}
+.input {
+    overflow: scroll;
+    border: 3px solid black;
+    width: 316px;
+    height: 70px;
+
+}
+button {
+    width: 80px;
+    height: 80px;
+}
+.btns {
+    width: 107px;
+}
